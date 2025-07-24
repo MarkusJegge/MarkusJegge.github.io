@@ -1,3 +1,3 @@
-This repo just a preview of the:
+This repo is just a preview of the HTML/CSS template:
 - code in repo: "reiselog"
-- check out website: "markus-jegge.github.io" 
+- preview: "markus-jegge.github.io" 
